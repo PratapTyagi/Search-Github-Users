@@ -1,3 +1,7 @@
+## Screenshot
+
+[DashBoardImage](https://i.imgur.com/QgRcjrH.png)
+
 ## Starter Project
 
 - css provided (global styles, styled components)
