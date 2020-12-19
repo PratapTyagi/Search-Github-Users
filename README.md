@@ -1,6 +1,3 @@
-## Screenshots
-![dashboard-image](https://i.imgur.com/vdcMmNX.png)
-
 ## Starter Project
 
 - css provided (global styles, styled components)
